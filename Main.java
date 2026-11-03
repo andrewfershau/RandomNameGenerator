@@ -8,7 +8,7 @@ import java.io.IOException;
 class Main {
   public static void main(String[] args) throws IOException {
     Random r = new Random();
-    String fileName = "names.txt";
+    String fileName = "Names.txt";
 
     int element;
     int counter = 0;
